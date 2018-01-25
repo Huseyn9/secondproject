@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6af1b45382b64270a13ff29370446b8e" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="NewDBModel.Gender" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Group_schedule" Width="1.5" PointX="5.125" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Group_types" Width="1.5" PointX="7.375" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Group" Width="1.5" PointX="5.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Mentor" Width="1.5" PointX="3" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Student" Width="1.5" PointX="7.5" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Task_types" Width="1.5" PointX="8.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Task" Width="1.5" PointX="9.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewDBModel.Teacher" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <AssociationConnector Association="NewDBModel.FK_Mentors_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Students_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Teachers_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Group_types_Group_schedule" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Groups_Group_types" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Groups_Mentors" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Groups_Teachers" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Students_Groups" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Tasks_Students" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Tasks_Task_types" ManuallyRouted="false" />
+        <AssociationConnector Association="NewDBModel.FK_Tasks_Groups" />
+        <EntityTypeShape EntityType="NewDBModel.Admin" Width="1.5" PointX="5.25" PointY="1.375" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
