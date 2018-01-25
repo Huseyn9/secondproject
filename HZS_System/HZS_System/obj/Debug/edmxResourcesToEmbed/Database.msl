@@ -100,7 +100,6 @@
     <EntitySetMapping Name="Teachers">
       <EntityTypeMapping TypeName="NewDBModel.Teacher">
         <MappingFragment StoreEntitySet="Teachers">
-          <ScalarProperty Name="teacher_photo" ColumnName="teacher_photo" />
           <ScalarProperty Name="id" ColumnName="id" />
           <ScalarProperty Name="teacher_name" ColumnName="teacher_name" />
           <ScalarProperty Name="teacher_surname" ColumnName="teacher_surname" />

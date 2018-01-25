@@ -62,33 +62,89 @@ C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.csp
 C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.exe
 C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.pdb
 C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.MentorForm.resources
-C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.GroupScheduleForm.resources
-C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.GroupForm.resources
-C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.GroupTypeForm.resources
-C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.TaskTypeForm.resources
-C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.ResolveComReference.cache
-C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.ProfileForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\bin\Debug\HZS_System.exe.config
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\bin\Debug\HZS_System.exe
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\bin\Debug\HZS_System.pdb
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\bin\Debug\EntityFramework.dll
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\bin\Debug\EntityFramework.xml
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.csprojResolveAssemblyReference.cache
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.ResolveComReference.cache
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.AdminPanelForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.Form1.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.GroupForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.GroupScheduleForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.GroupTypeForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.MentorForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.ProfileForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.Properties.Resources.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.StudentPanel.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.TaskTypeForm.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.TeacherPanel.resources
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.GenerateResource.Cache
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.CoreCompileInputs.cache
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.exe
-C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\obj\Debug\HZS_System.pdb
+C:\Users\Sakit\Desktop\COPY-Final\HZS_System\HZS_System\obj\Debug\HZS_System.MentorProfileForm.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\bin\Debug\HZS_System.exe.config
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\bin\Debug\HZS_System.exe
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\bin\Debug\HZS_System.pdb
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\bin\Debug\EntityFramework.dll
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\bin\Debug\EntityFramework.xml
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.csprojResolveAssemblyReference.cache
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.AdminPanelForm.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.Form1.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.MentorForm.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.MentorProfileForm.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.Properties.Resources.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.StudentPanel.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.TeacherPanel.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.GenerateResource.Cache
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.exe
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.pdb
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.GenderPanel.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.TaskPanel2.resources
+C:\Users\Huseyn\Desktop\New folder (3)\HZS_System\HZS_System\obj\Debug\HZS_System.StudentProfilForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\bin\Debug\HZS_System.exe.config
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\bin\Debug\HZS_System.exe
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\bin\Debug\HZS_System.pdb
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\bin\Debug\EntityFramework.dll
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\bin\Debug\EntityFramework.xml
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.csprojResolveAssemblyReference.cache
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.AdminPanelForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.Form1.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.GenderPanel.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.MentorForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.MentorProfileForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.Properties.Resources.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.StudentPanel.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.StudentProfilForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.TaskPanel2.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.TeacherPanel.resources
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.GenerateResource.Cache
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.exe
+C:\Users\Huseyn\Desktop\ZHS copy\HZS_System\HZS_System\obj\Debug\HZS_System.pdb
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.csprojResolveAssemblyReference.cache
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.AdminPanelForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.Form1.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.GenderPanel.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.MentorForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.MentorProfileForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.Properties.Resources.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.StudentProfilForm.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.TaskPanel2.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.TeacherPanel.resources
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.GenerateResource.Cache
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.exe
+C:\Users\Huseyn\Desktop\ZHS copy - Copy\HZS_System\HZS_System\obj\Debug\HZS_System.pdb
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.csprojResolveAssemblyReference.cache
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.AdminPanelForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.Form1.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.GenderPanel.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.GroupForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.GroupScheduleForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.GroupTypeForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.MentorForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.MentorProfileForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.ProfileForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.Properties.Resources.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.StudentPanel.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.StudentProfilForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.TaskPanel2.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.TaskTypeForm.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.TeacherPanel.resources
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.GenerateResource.Cache
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.exe
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\obj\Debug\HZS_System.pdb
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\bin\Debug\HZS_System.exe.config
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\bin\Debug\HZS_System.exe
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\bin\Debug\HZS_System.pdb
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\bin\Debug\EntityFramework.dll
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\bin\Debug\EntityFramework.xml
+C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\bin\Debug\EntityFramework.SqlServer.xml

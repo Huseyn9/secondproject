@@ -39,9 +39,8 @@
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
-      <EmbedInteropTypes>True</EmbedInteropTypes>
       <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
-      <Private>True</Private>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
@@ -94,6 +93,12 @@
     <Compile Include="Gender.cs">
       <DependentUpon>Database.tt</DependentUpon>
     </Compile>
+    <Compile Include="GenderPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenderPanel.Designer.cs">
+      <DependentUpon>GenderPanel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Group.cs">
       <DependentUpon>Database.tt</DependentUpon>
     </Compile>
@@ -130,6 +135,12 @@
     <Compile Include="MentorForm.Designer.cs">
       <DependentUpon>MentorForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MentorProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MentorProfileForm.Designer.cs">
+      <DependentUpon>MentorProfileForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ProfileForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -147,8 +158,20 @@
     <Compile Include="StudentPanel.Designer.cs">
       <DependentUpon>StudentPanel.cs</DependentUpon>
     </Compile>
+    <Compile Include="StudentProfilForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentProfilForm.Designer.cs">
+      <DependentUpon>StudentProfilForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Task.cs">
       <DependentUpon>Database.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TaskPanel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskPanel2.Designer.cs">
+      <DependentUpon>TaskPanel2.cs</DependentUpon>
     </Compile>
     <Compile Include="TaskTypeForm.cs">
       <SubType>Form</SubType>
@@ -174,6 +197,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GenderPanel.resx">
+      <DependentUpon>GenderPanel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GroupForm.resx">
       <DependentUpon>GroupForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -185,6 +211,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MentorForm.resx">
       <DependentUpon>MentorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MentorProfileForm.resx">
+      <DependentUpon>MentorProfileForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProfileForm.resx">
       <DependentUpon>ProfileForm.cs</DependentUpon>
@@ -200,6 +229,12 @@
     </Compile>
     <EmbeddedResource Include="StudentPanel.resx">
       <DependentUpon>StudentPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentProfilForm.resx">
+      <DependentUpon>StudentProfilForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskPanel2.resx">
+      <DependentUpon>TaskPanel2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TaskTypeForm.resx">
       <DependentUpon>TaskTypeForm.cs</DependentUpon>
@@ -260,17 +295,6 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
-  </ItemGroup>
-  <ItemGroup>
-    <COMReference Include="Microsoft.Office.Core">
-      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
-      <VersionMajor>2</VersionMajor>
-      <VersionMinor>8</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>primary</WrapperTool>
-      <Isolated>False</Isolated>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

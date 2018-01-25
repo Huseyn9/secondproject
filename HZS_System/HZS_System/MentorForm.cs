@@ -23,7 +23,7 @@ namespace HZS_System
         {
             InitializeComponent();
             this.Fill_cmb();
-            this.Cleaner();
+           // this.Cleaner();
             this.Add_events();
         }
 

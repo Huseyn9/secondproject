@@ -74,7 +74,7 @@
     <Property Name="student_github_account" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="student_info" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="student_photo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="student_cap_point" Type="Double" />
+    <Property Name="student_cap_point" Type="Double" Nullable="false" />
     <Property Name="student_group_id" Type="Int32" Nullable="false" />
     <Property Name="student_gender_id" Type="Int32" Nullable="false" />
     <Property Name="student_password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
@@ -101,7 +101,7 @@
     <Property Name="task_end_date" Type="DateTime" Nullable="false" Precision="3" />
     <Property Name="task_point" Type="Double" Nullable="false" />
     <Property Name="task_source" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="task_note" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="task_note" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
     <Property Name="task_group_id" Type="Int32" />
     <Property Name="task_student_id" Type="Int32" />
     <NavigationProperty Name="Student" Relationship="Self.FK_Tasks_Students" FromRole="Tasks" ToRole="Students" />
@@ -122,7 +122,6 @@
     <Property Name="teacher_password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
     <NavigationProperty Name="Gender" Relationship="Self.FK_Teachers_Gender" FromRole="Teachers" ToRole="Gender" />
     <NavigationProperty Name="Groups" Relationship="Self.FK_Groups_Teachers" FromRole="Teachers" ToRole="Groups" />
-    <Property Name="teacher_photo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
   </EntityType>
   <Association Name="FK_Mentors_Gender">
     <End Role="Gender" Type="Self.Gender" Multiplicity="1" />

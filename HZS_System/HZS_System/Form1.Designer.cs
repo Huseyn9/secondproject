@@ -112,7 +112,7 @@
             this.Controls.Add(this.btn_login);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txt_email);
-            this.Margin = new System.Windows.Forms.Padding(1);
+            this.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
             this.MaximumSize = new System.Drawing.Size(988, 565);
             this.MinimumSize = new System.Drawing.Size(492, 310);
             this.Name = "Form1";

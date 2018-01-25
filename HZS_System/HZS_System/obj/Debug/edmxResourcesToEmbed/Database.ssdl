@@ -69,7 +69,7 @@
     <Property Name="student_github_account" Type="nvarchar(max)" Nullable="false" />
     <Property Name="student_info" Type="nvarchar(max)" Nullable="false" />
     <Property Name="student_photo" Type="nvarchar(max)" Nullable="false" />
-    <Property Name="student_cap_point" Type="float" />
+    <Property Name="student_cap_point" Type="float" Nullable="false" />
     <Property Name="student_group_id" Type="int" Nullable="false" />
     <Property Name="student_gender_id" Type="int" Nullable="false" />
     <Property Name="student_password" Type="nvarchar(max)" Nullable="false" />
@@ -92,7 +92,7 @@
     <Property Name="task_end_date" Type="datetime" Nullable="false" />
     <Property Name="task_point" Type="float" Nullable="false" />
     <Property Name="task_source" Type="nvarchar(max)" Nullable="false" />
-    <Property Name="task_note" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="task_note" Type="nvarchar(max)" />
     <Property Name="task_group_id" Type="int" />
     <Property Name="task_student_id" Type="int" />
   </EntityType>
@@ -108,7 +108,6 @@
     <Property Name="teacher_info" Type="nvarchar(max)" Nullable="false" />
     <Property Name="teacher_gender_id" Type="int" Nullable="false" />
     <Property Name="teacher_password" Type="nvarchar(max)" Nullable="false" />
-    <Property Name="teacher_photo" Type="nvarchar(max)" />
   </EntityType>
   <Association Name="FK_Group_types_Group_schedule">
     <End Role="Group_schedule" Type="Self.Group_schedule" Multiplicity="1" />

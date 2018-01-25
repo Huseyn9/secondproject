@@ -9,7 +9,7 @@ namespace HZS_System
     public static class Extentions
     {
 
-        public static string uploads_path = @"C:\Users\Sakit\Desktop\COPYFINAL_2\HZS_System\HZS_System\Uploads\";
+        public static string uploads_path = @"C:\Users\Huseyn\Desktop\New folder\HZS_System\HZS_System\Uploads\";
 
         public static string getHashCode(string password)
         {

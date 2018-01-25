@@ -28,7 +28,6 @@ namespace HZS_System
         public string teacher_info { get; set; }
         public int teacher_gender_id { get; set; }
         public string teacher_password { get; set; }
-        public string teacher_photo { get; set; }
     
         public virtual Gender Gender { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
